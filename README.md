@@ -28,8 +28,3 @@ Recommended:
 * [Multimeter](https://www.aliexpress.com/item/33004463675.html) for troubleshooting
 * [Project box](https://www.aliexpress.com/item/32889586884.html)
 
-## Demo
-
-Click the image below to play the video
-
-[![Watch the video](https://i3.ytimg.com/vi/jdl6SVCwzJ4/hqdefault.jpg)](https://youtu.be/jdl6SVCwzJ4)
