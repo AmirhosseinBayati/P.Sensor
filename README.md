@@ -3,6 +3,11 @@
 A simple, proof of concept, car-parking sensor that will tell you when you're too close to the wall (or other obstacles). This project has it's origins [here](https://gathering.tweakers.net/forum/list_messages/1967946) (Dutch). The schema is a bit messy; I currently don't have a decent circuit editor... Sorry 'bout that!
 
 With a little effort this circuit can be extended with another HC SR-04 sensor and LED, but I'll leave that up to the reader.
+If just thinking about reversing your car into a narrow parking space, all while bringing traffic to a halt, brings you out in a rash, there's a good chance you already own a car that can park itself.
+
+Self-parking was some of the first autonomous driving technology to arrive in cars, arriving around a decade ago and now available in the majority of new models.
+
+
 
 ![Circuit](circuit/schema.png)
 
